@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 824.9 417">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_2-2" data-name=" 레이어 2">
+    <line class="cls-1" x1="266.95" y1="137.3" x2="84.13" y2="137.3"/>
+    <line class="cls-1" x1="254.01" y1="195.3" x2="25.05" y2="195.3"/>
+    <line class="cls-1" x1="263.57" y1="252.06" x2="46.6" y2="252.06"/>
+    <line class="cls-1" x1="290.19" y1="312.3" x2="58.93" y2="312.3"/>
+    <line class="cls-1" x1="812.38" y1="137.3" x2="552.93" y2="137.3"/>
+    <line class="cls-1" x1="783.57" y1="195.3" x2="573.66" y2="195.3"/>
+    <line class="cls-1" x1="727" y1="252.06" x2="563.39" y2="252.06"/>
+    <line class="cls-1" x1="691.08" y1="312.3" x2="534.16" y2="312.3"/>
+    <rect class="cls-2" x="3.5" y="3.5" width="817.9" height="410" rx="34.88" ry="34.88"/>
+    <g>
+      <circle class="cls-2" cx="412.45" cy="208.5" r="158.25"/>
+      <path class="cls-2" d="M412.45,81.9h0c16.48,0,29.84,13.36,29.84,29.84v194.42c0,16.48-13.36,29.84-29.84,29.84h0c-16.48,0-29.84-13.36-29.84-29.84V111.74c0-16.48,13.36-29.84,29.84-29.84Z"/>
+      <line class="cls-3" x1="412.45" y1="97.22" x2="412.45" y2="142.84"/>
+    </g>
+  </g>
+</svg>
