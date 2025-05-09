@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1001 417">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+
+      .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_2-2" data-name=" 레이어 2">
+    <circle class="cls-2" cx="353.75" cy="207.75" r="158.25"/>
+    <path class="cls-2" d="M353.75,81.15h0c16.48,0,29.84,13.36,29.84,29.84v194.42c0,16.48-13.36,29.84-29.84,29.84h0c-16.48,0-29.84-13.36-29.84-29.84V110.99c0-16.48,13.36-29.84,29.84-29.84Z"/>
+    <line class="cls-4" x1="353.75" y1="96.47" x2="353.75" y2="142.09"/>
+    <rect class="cls-2" x="3.5" y="3.5" width="994" height="410" rx="34.88" ry="34.88"/>
+    <rect class="cls-3" x="760.3" y="32.5" width="191.2" height="351.13" rx="34.88" ry="34.88"/>
+    <rect class="cls-1" x="791.56" y="72.28" width="127.71" height="40" rx="15" ry="15"/>
+    <rect class="cls-1" x="791.56" y="130.28" width="127.71" height="40" rx="15" ry="15"/>
+    <rect class="cls-1" x="791.56" y="188.28" width="127.71" height="40" rx="15" ry="15"/>
+    <rect class="cls-1" x="791.56" y="246.28" width="127.71" height="40" rx="15" ry="15"/>
+    <rect class="cls-1" x="791.56" y="304.28" width="127.71" height="40" rx="15" ry="15"/>
+    <line class="cls-1" x1="214.48" y1="130.28" x2="95.45" y2="130.28"/>
+    <line class="cls-1" x1="194.39" y1="188.3" x2="41.11" y2="188.3"/>
+    <line class="cls-1" x1="198.24" y1="245.06" x2="80.94" y2="245.06"/>
+    <line class="cls-1" x1="227.56" y1="306" x2="95.45" y2="306"/>
+    <line class="cls-1" x1="493.02" y1="130.28" x2="632.21" y2="130.28"/>
+    <line class="cls-1" x1="512" y1="188.3" x2="618.42" y2="188.3"/>
+    <line class="cls-1" x1="506.94" y1="245.06" x2="662.95" y2="245.06"/>
+    <line class="cls-1" x1="478.24" y1="305.3" x2="657.45" y2="305.3"/>
+  </g>
+</svg>

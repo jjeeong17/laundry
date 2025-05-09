@@ -1,0 +1,52 @@
+{
+  "Cotton": {
+    "wash": ["Hot wash", "Warm wash", "Cold wash"],
+    "dry": ["Low heat dry", "Medium heat dry", "High heat dry"],
+    "note": "Shrinks in hot water; pre-shrink if needed"
+  },
+  "Linen": {
+    "wash": ["Cold wash", "Hand wash"],
+    "dry": ["Air dry", "Low heat dry"],
+    "note": "Avoid high heat to prevent shrinking"
+  },
+  "Wool": {
+    "wash": ["Cold wash", "Hand wash", "No wash"],
+    "dry": ["Air dry", "Low heat dry"],
+    "note": "Can felt/shrink in hot water; wool cycle preferred"
+  },
+  "Silk": {
+    "wash": ["Cold wash", "Hand wash"],
+    "dry": ["Air dry"],
+    "note": "Use mesh bag; avoid direct sun"
+  },
+  "Rayon": {
+    "wash": ["Cold wash", "Hand wash"],
+    "dry": ["Air dry"],
+    "note": "Fragile when wet; may shrink"
+  },
+  "Nylon": {
+    "wash": ["Warm wash", "Cold wash"],
+    "dry": ["Low heat dry", "Air dry"],
+    "note": "Quick-drying; low heat preferred"
+  },
+  "Polyester": {
+    "wash": ["Warm wash", "Cold wash"],
+    "dry": ["Low heat dry", "Medium heat dry"],
+    "note": "Wrinkle-resistant, durable"
+  },
+  "Spandex": {
+    "wash": ["Cold wash", "Hand wash"],
+    "dry": ["Air dry", "Low heat dry"],
+    "note": "Avoid fabric softener; stretches easily"
+  },
+  "Leather": {
+    "wash": ["No wash", "Spot clean"],
+    "dry": ["Air dry"],
+    "note": "Use leather cleaner only"
+  },
+  "Suede": {
+    "wash": ["No wash", "Spot clean"],
+    "dry": ["Air dry"],
+    "note": "Brush gently; never submerge"
+  }
+}

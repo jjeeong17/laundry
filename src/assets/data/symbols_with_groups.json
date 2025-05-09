@@ -1,0 +1,311 @@
+[
+  {
+    "file": "01.svg",
+    "label": "Machine Washing",
+    "category": "washing",
+    "group": ["T-Shirts / Sweatshirts"]
+  },
+  {
+    "file": "02.svg",
+    "label": "Wash Max 80\u00b0F",
+    "category": "washing",
+    "group": ["T-Shirts / Sweatshirts"]
+  },
+  {
+    "file": "04.svg",
+    "label": "Wash Max 80\u00b0F Gentle/ Delicate",
+    "category": "washing",
+    "group": ["Underwear / Socks"]
+  },
+  {
+    "file": "05.svg",
+    "label": "Machine Wash, Permanent Press",
+    "category": "washing",
+    "group": ["T-Shirts / Sweatshirts"]
+  },
+  {
+    "file": "06.svg",
+    "label": "Wash Max 105\u00b0F",
+    "category": "washing",
+    "group": ["T-Shirts / Sweatshirts"]
+  },
+  {
+    "file": "07.svg",
+    "label": "Wash Max 105\u00b0F Permanet Press",
+    "category": "washing",
+    "group": ["Dress Shirts / Blouses"]
+  },
+  {
+    "file": "08.svg",
+    "label": "Wash Max 105\u00b0F Gentle/ Delicate",
+    "category": "washing",
+    "group": ["Activewear / Sportswear"]
+  },
+  {
+    "file": "09.svg",
+    "label": "Machine Wash, Permanent Press",
+    "category": "washing",
+    "group": ["T-Shirts / Sweatshirts"]
+  },
+  {
+    "file": "10.svg",
+    "label": "Wash Max 120\u00b0F",
+    "category": "washing",
+    "group": ["T-Shirts / Sweatshirts"]
+  },
+  {
+    "file": "11.svg",
+    "label": "Wash Max 120\u00b0F Permanet Press",
+    "category": "washing",
+    "group": ["Dress Shirts / Blouses"]
+  },
+  {
+    "file": "13.svg",
+    "label": "Hand Wash",
+    "category": "washing",
+    "group": ["Underwear / Socks", "Sweaters / Knitwear"]
+  },
+  {
+    "file": "17.svg",
+    "label": "Wash Max 160\u00b0F",
+    "category": "washing",
+    "group": ["Jeans / Pants"]
+  },
+  {
+    "file": "18.svg",
+    "label": "Wash Max 160\u00b0F Permanet Press",
+    "category": "washing",
+    "group": ["Jeans / Pants"]
+  },
+  {
+    "file": "23.svg",
+    "label": "Do Not Bleach",
+    "category": "bleaching",
+    "group": [
+      "T-Shirts / Sweatshirts",
+      "Jeans / Pants",
+      "Underwear / Socks",
+      "Jackets / Coats"
+    ]
+  },
+  {
+    "file": "25.svg",
+    "label": "Non Chlorine Bleach",
+    "category": "bleaching",
+    "group": ["Dress Shirts / Blouses"]
+  },
+  {
+    "file": "26.svg",
+    "label": "Chlorine Bleach",
+    "category": "bleaching",
+    "group": ["Dress Shirts / Blouses"]
+  },
+  {
+    "file": "27.svg",
+    "label": "Do Not Iron",
+    "category": "ironing",
+    "group": [
+      "T-Shirts / Sweatshirts",
+      "Underwear / Socks",
+      "Activewear / Sportswear"
+    ]
+  },
+  {
+    "file": "28.svg",
+    "label": "Do Not Steam",
+    "category": "ironing",
+    "group": ["Activewear / Sportswear"]
+  },
+  {
+    "file": "30.svg",
+    "label": "Steaming",
+    "category": "ironing",
+    "group": ["Jackets / Coats"]
+  },
+  {
+    "file": "31.svg",
+    "label": "Iron Low Temperature (Max 230 \u00b0F)",
+    "category": "ironing",
+    "group": ["T-Shirts / Sweatshirts", "Sweaters / Knitwear"]
+  },
+  {
+    "file": "32.svg",
+    "label": "Iron Low Temperature (Max 230 \u00b0F), No Steam",
+    "category": "ironing",
+    "group": ["Sweaters / Knitwear"]
+  },
+  {
+    "file": "33.svg",
+    "label": "Iron Medium Temperature (Max 300 \u00b0F)",
+    "category": "ironing",
+    "group": ["Dress Shirts / Blouses", "Jackets / Coats"]
+  },
+  {
+    "file": "35.svg",
+    "label": "Iron High Temperature (Max 390 \u00b0F)",
+    "category": "ironing",
+    "group": ["Dress Shirts / Blouses", "Jeans / Pants"]
+  },
+  {
+    "file": "36.svg",
+    "label": "Iron High Temperature (Max 390 \u00b0F), No Steam",
+    "category": "ironing",
+    "group": ["Dress Shirts / Blouses"]
+  },
+  {
+    "file": "37.svg",
+    "label": "Do Not Tumble Dry",
+    "category": "drying",
+    "group": ["Sweaters / Knitwear"]
+  },
+  {
+    "file": "41.svg",
+    "label": "Tumble Dry, Low Heat",
+    "category": "drying",
+    "group": ["T-Shirts / Sweatshirts", "Underwear / Socks"]
+  },
+  {
+    "file": "44.svg",
+    "label": "Tumble Dry, Medium Heat",
+    "category": "drying",
+    "group": ["Dress Shirts / Blouses", "Jackets / Coats"]
+  },
+  {
+    "file": "45.svg",
+    "label": "Tumble Dry, Medium Heat, Permanet Press",
+    "category": "drying",
+    "group": ["Dress Shirts / Blouses"]
+  },
+  {
+    "file": "47.svg",
+    "label": "Tumble Dry, High Heat",
+    "category": "drying",
+    "group": ["Jeans / Pants", "Jackets / Coats"]
+  },
+  {
+    "file": "48.svg",
+    "label": "Tumble Dry, High Heat, Permanet Press",
+    "category": "drying",
+    "group": ["Jeans / Pants"]
+  },
+  {
+    "file": "50.svg",
+    "label": "Tumble Dry, No Heat",
+    "category": "drying",
+    "group": [
+      "T-Shirts / Sweatshirts",
+      "Underwear / Socks",
+      "Activewear / Sportswear"
+    ]
+  },
+  {
+    "file": "56.svg",
+    "label": "Flat Dry",
+    "category": "drying",
+    "group": [
+      "Underwear / Socks",
+      "Activewear / Sportswear",
+      "Sweaters / Knitwear"
+    ]
+  },
+  {
+    "file": "57.svg",
+    "label": "Flat Dry In Shade",
+    "category": "drying",
+    "group": ["Sweaters / Knitwear"]
+  },
+  {
+    "file": "58.svg",
+    "label": "Drip Dry",
+    "category": "drying",
+    "group": ["Underwear / Socks"]
+  },
+  {
+    "file": "60.svg",
+    "label": "Line Dry",
+    "category": "drying",
+    "group": ["Activewear / Sportswear"]
+  },
+  {
+    "file": "62.svg",
+    "label": "Do Not Dry Clean",
+    "category": "cleaning",
+    "group": ["T-Shirts / Sweatshirts", "Jeans / Pants", "Underwear / Socks"]
+  },
+  {
+    "file": "63.svg",
+    "label": "Dry Clean",
+    "category": "cleaning",
+    "group": ["Dress Shirts / Blouses"]
+  },
+  {
+    "file": "67.svg",
+    "label": "Reduced Moisture",
+    "category": "cleaning",
+    "group": ["Activewear / Sportswear"]
+  },
+  {
+    "file": "68.svg",
+    "label": "No Steam Finishing",
+    "category": "cleaning",
+    "group": [
+      "Dress Shirts / Blouses",
+      "Activewear / Sportswear",
+      "Jackets / Coats"
+    ]
+  },
+  {
+    "file": "69.svg",
+    "label": "Short Cycle",
+    "category": "cleaning",
+    "group": ["Activewear / Sportswear"]
+  },
+  {
+    "file": "70.svg",
+    "label": "Dry Clean, Any Solvent",
+    "category": "cleaning",
+    "group": ["Jackets / Coats"]
+  },
+  {
+    "file": "73.svg",
+    "label": "Dry Clean, Only Petroleum Solvent",
+    "category": "cleaning",
+    "group": ["Jackets / Coats"]
+  },
+  {
+    "file": "74.svg",
+    "label": "Dry Clean, Only Petroleum Solvent, Gentle",
+    "category": "cleaning",
+    "group": ["Activewear / Sportswear", "Jackets / Coats"]
+  },
+  {
+    "file": "76.svg",
+    "label": "Dry Clean, No Trichloroethylene",
+    "category": "cleaning",
+    "group": ["Jackets / Coats"]
+  },
+  {
+    "file": "80.svg",
+    "label": "Wet Clean, Gentle",
+    "category": "cleaning",
+    "group": ["Underwear / Socks", "Sweaters / Knitwear"]
+  },
+  {
+    "file": "81.svg",
+    "label": "Wet Clean, Very Gentle",
+    "category": "cleaning",
+    "group": ["Jackets / Coats"]
+  },
+  {
+    "file": "82.svg",
+    "label": "Do not Wring",
+    "category": "etc",
+    "group": ["T-Shirts / Sweatshirts", "Sweaters / Knitwear"]
+  },
+  {
+    "file": "83.svg",
+    "label": "Wring",
+    "category": "etc",
+    "group": ["T-Shirts / Sweatshirts", "Jeans / Pants"]
+  }
+]
