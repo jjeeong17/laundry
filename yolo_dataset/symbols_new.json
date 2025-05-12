@@ -1,0 +1,417 @@
+[
+  {
+    "file": "01.png",
+    "label": "Machine Washing",
+    "category": "washing"
+  },
+  {
+    "file": "02.png",
+    "label": "Wash Max 80°F",
+    "category": "washing"
+  },
+  {
+    "file": "03.png",
+    "label": "Wash Max 80°F Permanent Press",
+    "category": "washing"
+  },
+  {
+    "file": "04.png",
+    "label": "Wash Max 80°F Gentle/ Delicate",
+    "category": "washing"
+  },
+  {
+    "file": "05.png",
+    "label": "Machine Wash, Permanent Press",
+    "category": "washing"
+  },
+  {
+    "file": "06.png",
+    "label": "Wash Max 105°F",
+    "category": "washing"
+  },
+  {
+    "file": "07.png",
+    "label": "Wash Max 105°F Permanet Press",
+    "category": "washing"
+  },
+  {
+    "file": "08.png",
+    "label": "Wash Max 105°F Gentle/ Delicate",
+    "category": "washing"
+  },
+  {
+    "file": "09.png",
+    "label": "Machine Wash, Permanent Press",
+    "category": "washing"
+  },
+  {
+    "file": "10.png",
+    "label": "Wash Max 120°F",
+    "category": "washing"
+  },
+  {
+    "file": "11.png",
+    "label": "Wash Max 120°F Permanet Press",
+    "category": "washing"
+  },
+  {
+    "file": "12.png",
+    "label": "Wash Max 120°F Gentle/ Delicate",
+    "category": "washing"
+  },
+  {
+    "file": "13.png",
+    "label": "Hand Wash",
+    "category": "washing"
+  },
+  {
+    "file": "14.png",
+    "label": "Hand Wash Max 140°F",
+    "category": "washing"
+  },
+  {
+    "file": "15.png",
+    "label": "Wash Max 140°F Permanet Press",
+    "category": "washing"
+  },
+  {
+    "file": "16.png",
+    "label": "Do Not Wash",
+    "category": "washing"
+  },
+  {
+    "file": "17.png",
+    "label": "Wash Max 160°F",
+    "category": "washing"
+  },
+  {
+    "file": "18.png",
+    "label": "Wash Max 160°F Permanet Press",
+    "category": "washing"
+  },
+  {
+    "file": "19.png",
+    "label": "Wash Max 160°F Gentle/ Delicate",
+    "category": "washing"
+  },
+  {
+    "file": "20.png",
+    "label": "Wash Max 200°F",
+    "category": "washing"
+  },
+  {
+    "file": "21.png",
+    "label": "Wash Max 200°F Permanet Press",
+    "category": "washing"
+  },
+  {
+    "file": "22.png",
+    "label": "Wash Max 200°F Gentle/ Delicate",
+    "category": "washing"
+  },
+  {
+    "file": "23.png",
+    "label": "Do Not Bleach",
+    "category": "bleaching"
+  },
+  {
+    "file": "24.png",
+    "label": "Bleaching",
+    "category": "bleaching"
+  },
+  {
+    "file": "25.png",
+    "label": "Non Chlorine Bleach",
+    "category": "bleaching"
+  },
+  {
+    "file": "26.png",
+    "label": "Chlorine Bleach",
+    "category": "bleaching"
+  },
+  {
+    "file": "27.png",
+    "label": "Do Not Iron",
+    "category": "ironing"
+  },
+  {
+    "file": "28.png",
+    "label": "Do Not Steam",
+    "category": "ironing"
+  },
+  {
+    "file": "29.png",
+    "label": "Ironing",
+    "category": "ironing"
+  },
+  {
+    "file": "30.png",
+    "label": "Steaming",
+    "category": "ironing"
+  },
+  {
+    "file": "31.png",
+    "label": "Iron Low Temperature (Max 230 °F)",
+    "category": "ironing"
+  },
+  {
+    "file": "32.png",
+    "label": "Iron Low Temperature (Max 230 °F), No Steam",
+    "category": "ironing"
+  },
+  {
+    "file": "33.png",
+    "label": "Iron Medium Temperature (Max 300 °F)",
+    "category": "ironing"
+  },
+  {
+    "file": "34.png",
+    "label": "Iron Medium Temperature (Max 300 °F), No Steam",
+    "category": "ironing"
+  },
+  {
+    "file": "35.png",
+    "label": "Iron High Temperature (Max 390 °F)",
+    "category": "ironing"
+  },
+  {
+    "file": "36.png",
+    "label": "Iron High Temperature (Max 390 °F), No Steam",
+    "category": "ironing"
+  },
+  {
+    "file": "37.png",
+    "label": "Do Not Tumble Dry",
+    "category": "drying"
+  },
+  {
+    "file": "38.png",
+    "label": "Tumble Dry",
+    "category": "drying"
+  },
+  {
+    "file": "39.png",
+    "label": "Tumble Dry, Permanet Press",
+    "category": "drying"
+  },
+  {
+    "file": "40.png",
+    "label": "Tumble Dry, Gentle/ Delicate",
+    "category": "drying"
+  },
+  {
+    "file": "41.png",
+    "label": "Tumble Dry, Low Heat",
+    "category": "drying"
+  },
+  {
+    "file": "42.png",
+    "label": "Tumble Dry, Low Heat, Permanet Press",
+    "category": "drying"
+  },
+  {
+    "file": "43.png",
+    "label": "Tumble Dry, Low Heat, Gentle/ Delicate",
+    "category": "drying"
+  },
+  {
+    "file": "44.png",
+    "label": "Tumble Dry, Medium Heat",
+    "category": "drying"
+  },
+  {
+    "file": "45.png",
+    "label": "Tumble Dry, Medium Heat, Permanet Press",
+    "category": "drying"
+  },
+  {
+    "file": "46.png",
+    "label": "Tumble Dry, Medium Heat, Gentle/ Delicate",
+    "category": "drying"
+  },
+  {
+    "file": "47.png",
+    "label": "Tumble Dry, High Heat",
+    "category": "drying"
+  },
+  {
+    "file": "48.png",
+    "label": "Tumble Dry, High Heat, Permanet Press",
+    "category": "drying"
+  },
+  {
+    "file": "49.png",
+    "label": "Tumble Dry, High Heat, Gentle/ Delicate",
+    "category": "drying"
+  },
+  {
+    "file": "50.png",
+    "label": "Tumble Dry, No Heat",
+    "category": "drying"
+  },
+  {
+    "file": "51.png",
+    "label": "Tumble Dry, No Heat, Permanet Press",
+    "category": "drying"
+  },
+  {
+    "file": "52.png",
+    "label": "Tumble Dry, No Heat, Gentle/ Delicate",
+    "category": "drying"
+  },
+  {
+    "file": "53.png",
+    "label": "Do Not Dry",
+    "category": "drying"
+  },
+  {
+    "file": "54.png",
+    "label": "Drying",
+    "category": "drying"
+  },
+  {
+    "file": "55.png",
+    "label": "Dry In Shade",
+    "category": "drying"
+  },
+  {
+    "file": "56.png",
+    "label": "Flat Dry",
+    "category": "drying"
+  },
+  {
+    "file": "57.png",
+    "label": "Flat Dry In Shade",
+    "category": "drying"
+  },
+  {
+    "file": "58.png",
+    "label": "Drip Dry",
+    "category": "drying"
+  },
+  {
+    "file": "59.png",
+    "label": "Drip Dry In Shade",
+    "category": "drying"
+  },
+  {
+    "file": "60.png",
+    "label": "Line Dry",
+    "category": "drying"
+  },
+  {
+    "file": "61.png",
+    "label": "Line Dry In Shade",
+    "category": "drying"
+  },
+  {
+    "file": "62.png",
+    "label": "Do Not Dry Clean",
+    "category": "cleaning"
+  },
+  {
+    "file": "63.png",
+    "label": "Dry Clean",
+    "category": "cleaning"
+  },
+  {
+    "file": "64.png",
+    "label": "Dry Clean, Genlte",
+    "category": "cleaning"
+  },
+  {
+    "file": "65.png",
+    "label": "Dry Clean, Very Genlte",
+    "category": "cleaning"
+  },
+  {
+    "file": "66.png",
+    "label": "Low Heat",
+    "category": "cleaning"
+  },
+  {
+    "file": "67.png",
+    "label": "Reduced Moisture",
+    "category": "cleaning"
+  },
+  {
+    "file": "68.png",
+    "label": "No Steam Finishing",
+    "category": "cleaning"
+  },
+  {
+    "file": "69.png",
+    "label": "Short Cycle",
+    "category": "cleaning"
+  },
+  {
+    "file": "70.png",
+    "label": "Dry Clean, Any Solvent",
+    "category": "cleaning"
+  },
+  {
+    "file": "71.png",
+    "label": "Dry Clean, Any Solvent, Gentle",
+    "category": "cleaning"
+  },
+  {
+    "file": "72.png",
+    "label": "Dry Clean, Any Solvent, Very Gentle",
+    "category": "cleaning"
+  },
+  {
+    "file": "73.png",
+    "label": "Dry Clean, Only Petroleum Solvent",
+    "category": "cleaning"
+  },
+  {
+    "file": "74.png",
+    "label": "Dry Clean, Only Petroleum Solvent, Gentle",
+    "category": "cleaning"
+  },
+  {
+    "file": "75.png",
+    "label": "Dry Clean, Only Petroleum Solvent, Very Gentle",
+    "category": "cleaning"
+  },
+  {
+    "file": "76.png",
+    "label": "Dry Clean, No Trichloroethylene",
+    "category": "cleaning"
+  },
+  {
+    "file": "77.png",
+    "label": "Dry Clean, No Trichloroethylene, Gentle",
+    "category": "cleaning"
+  },
+  {
+    "file": "78.png",
+    "label": "Dry Clean, No Trichloroethylene, Very Gentle",
+    "category": "cleaning"
+  },
+  {
+    "file": "79.png",
+    "label": "Wet Clean",
+    "category": "cleaning"
+  },
+  {
+    "file": "80.png",
+    "label": "Wet Clean, Gentle",
+    "category": "cleaning"
+  },
+  {
+    "file": "81.png",
+    "label": "Wet Clean, Very Gentle",
+    "category": "cleaning"
+  },
+  {
+    "file": "82.png",
+    "label": "Do not Wring",
+    "category": "etc"
+  },
+  {
+    "file": "83.png",
+    "label": "Wring",
+    "category": "etc"
+  }
+]
